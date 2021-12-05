@@ -1,0 +1,18 @@
+.bgvscode{
+    background-color: #1E1E1E;
+    font-family: 'consolas';
+}
+.atributo{
+    color: #86D0EF;
+}
+.valueString{
+    color: #CE9178;
+    margin-left: 10px;
+}
+.valueInt{
+    color: #A8B59C;
+    margin-left: 10px;
+}
+.pontos{
+    color: white;
+}
